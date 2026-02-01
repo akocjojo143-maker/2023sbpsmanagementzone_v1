@@ -3,7 +3,6 @@ var wms_layers = [];
 
         var lyr_GoogleTerrain_0 = new ol.layer.Tile({
             'title': 'Google Terrain',
-            'type':'base',
             'opacity': 1.000000,
             
             
